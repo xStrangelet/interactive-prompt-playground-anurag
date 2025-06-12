@@ -196,7 +196,7 @@ function App() {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Brain className="w-8 h-8 text-blue-600" />
             <h1 className={`text-4xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent`}>
-              AI Prompt Studio
+              Interactive Prompt Playground
             </h1>
             <button
               onClick={toggleDarkMode}
